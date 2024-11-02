@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Morgan! I'm currently a student at Walden University pursuing a business degree and taking programming courses on the side.
+
+I'm currently learning PHP, SQL, HTML, and CSS, and will be looking to create some Bootstrap themes.
+
+I'm looking for help with general UI fundamentals when it comes to the Bootstrap framework and looking to collaborate on a theme that could potentially be sold.
